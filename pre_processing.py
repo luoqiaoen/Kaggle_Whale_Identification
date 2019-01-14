@@ -10,6 +10,7 @@ import matplotlib.pyplot as plt
 import random
 import shutil
 import pandas as pd
+import keras
 
 def expand_path(p):
     if isfile('../large_dataset/whale_files/train/' + p): return '../large_dataset/whale_files/train/' + p

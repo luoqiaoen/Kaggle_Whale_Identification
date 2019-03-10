@@ -1,7 +1,7 @@
 # Whale Identification Kaggle Challenge
 
 Working codes for training and testing,
-Bound Box information obtained using YOLO.
+Bound Box information obtained using YOLO during pre-processing.
 
 
 Refactored siamese twin approach detailed for previous challenge:
